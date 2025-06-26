@@ -1,4 +1,4 @@
-# DeepLearning TFM
+# Deep Learning TFM
 
 This repository contains the implementations for my Master's Final project (Trabajo de Fin de Máster/TFM).
 
